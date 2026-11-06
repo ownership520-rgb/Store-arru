@@ -1,0 +1,6 @@
+{
+  "name": "Kryptos Vault - Zero-Knowledge E2E Password Manager",
+  "description": "Store all your app passwords securely in an end-to-end encrypted vault with AES-256-GCM, TOTP 2FA authenticator, password health audit, and secure generator.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
